@@ -9,5 +9,4 @@ print (phrase.index("Test"))
 print (phrase.replace("Test","Rubish"))
 print ("really long test")
 print (phrase.index("rly"))
-
-Print (len
+Pr
